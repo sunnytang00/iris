@@ -16,3 +16,6 @@ path = "src/main.rs"
 [dependencies]
 bufstream = "0.1.4"
 clap = { version = "4.0.18", features = ["derive"] }
+log = "0.4.17"
+simple_logger = "4.1.0"
+tokio = "1.28.0"
